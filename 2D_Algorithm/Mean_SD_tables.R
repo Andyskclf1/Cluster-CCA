@@ -1,4 +1,5 @@
 # load results table
+# results_table = readRDS("results_table.rds")
 # compute mean/sd of ari/tuckers for each factor level
 
 mean_ari = mean(results_table$ari)
