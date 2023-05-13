@@ -1,5 +1,6 @@
 # some interaction plots
 # load results table
+# results_table = readRDS("results_table.rds")
 
 library(dae)
 
