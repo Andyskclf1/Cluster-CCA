@@ -1,4 +1,5 @@
 # load results table
+# results_table = readRDS("results_table.rds")
 # compute ANOVA for ari and tuckers
 
 library(effectsize)
